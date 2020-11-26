@@ -1,0 +1,26 @@
+https://dev.azure.com/superusers-kursus/az204-kursus
+
+my.visualstudio.com
+portal.azure.com => DevTest
+
+powershell => $PROFILE => cat $PROFILE
+Ubuntu server 20.10
+
+windows 10 pro
+
+my powerShell git is Public:
+https://dev.azure.com/superusers-kursus/PowerShell (you)
+
+
+Power shell
+$x = "my Name is Henrik"
+echo $x
+
+linut (apt) <=> win scoop
+scoop search git
+scoop install git
+
+
+docker
+docker ps => all processes
+

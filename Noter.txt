@@ -25,3 +25,5 @@ docker
 docker ps => all processes
 
 i stedet for applicationinsights => logstash
+
+testing
